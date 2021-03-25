@@ -10,7 +10,9 @@ LICENSE : [MIT](./LICENSE.md)
 
 <font color="red">
 
-##  <strong>Всё о Git:</strong>
+<h2>  
+<strong>Всё о Git:</strong>
+</h2>
 
 </font>
 
@@ -27,7 +29,9 @@ LICENSE : [MIT](./LICENSE.md)
 
 <font color="red">
 
-## <strong>Основные команды Git:</strong>
+<h2>
+<strong>Основные команды Git:</strong>
+</h2>
 
 </font>
 
