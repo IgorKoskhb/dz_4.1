@@ -10,7 +10,8 @@ LICENSE : [MIT](./LICENSE.md)
 
 <font color="red">
 
->## <strong>Всё о Git:</strong>
+##  <strong>Всё о Git:</strong>
+
 </font>
 
 1. [*Что такое Git Hub*](./whatisgit.md)
@@ -24,7 +25,11 @@ LICENSE : [MIT](./LICENSE.md)
 
 ---
 
->## <font color="red">**Основные команды Git:**</font>
+<font color="red">
+
+## <strong>Основные команды Git:</strong>
+
+</font>
 
 
 
