@@ -13,7 +13,7 @@
 
 <ul>
 
-<li> Перейдите по ссылке https://github.com/. </li>
+<li> Перейдите по ссылке https://github.com/ </li>
 
 <li> Выберите «Sign up». </li>
 
