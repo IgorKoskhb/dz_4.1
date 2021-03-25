@@ -1,4 +1,4 @@
-# <p align="center"> **Инструкция по работе в GIT**
+**Инструкция по работе в GIT**
 
 LICENSE : [MIT](./LICENSE.md)
 
@@ -8,9 +8,9 @@ LICENSE : [MIT](./LICENSE.md)
 
 ---
 
-<font color="greeen">
+<font color="red">
 
->## **Всё о Git:**
+>## <strong>Всё о Git:</strong>
 </font>
 
 1. [*Что такое Git Hub*](./whatisgit.md)
@@ -24,8 +24,10 @@ LICENSE : [MIT](./LICENSE.md)
 
 ---
 
-### 
-><font color="greeen">**Основные команды Git:**</font>
+>## <font color="red">**Основные команды Git:**</font>
+
+
+
 1. [*Что такое git config*](./config.md)
 
 2. [*Как используется команда git init*](./init.md)
