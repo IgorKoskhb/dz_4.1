@@ -11,7 +11,9 @@ LICENSE : [MIT](./LICENSE.md)
 <font color="red">
 
 <h2>  
+
 <strong>Всё о Git:</strong>
+
 </h2>
 
 </font>
