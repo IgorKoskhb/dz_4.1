@@ -1,20 +1,23 @@
 # <strong>Как создать свой проект на Git Hub?</strong>
 
 
-<font color="gree">
+<font color="red">
 
->1. Нажмите на свою иконку
+<ul>
 
->2. Нажмите на <strong>YOUR REPOSITORIES</strong>
+ <li> Нажмите на свою иконку </li>
 
->3. Нажмите на <strong>NEW</strong>
+ <li> Нажмите на <strong>YOUR REPOSITORIES</strong> </li>
 
->4. Придумайте название своему проекту и напиши это в <strong>REPOSITORY NAME</strong>
+ <li> Нажмите на <strong>NEW</strong></li>
 
->5. Выберите статус <strong>PUBLIC</strong>
+ <li> Придумайте название своему проекту и напиши это в <strong>REPOSITORY NAME</strong></li>
 
->6. Нажмите на <strong>CREATE</strong>
+ <li> Выберите статус <strong>PUBLIC</strong></li>
 
+ <li> Нажмите на <strong>CREATE</strong></li>
+
+</ul>
 
 </font>
 
